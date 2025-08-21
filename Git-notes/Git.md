@@ -38,7 +38,6 @@
 - so in short ***to make and connect a github repository to git***
 - simply ***make a repository of name of your project at github***, go in the project repo and copy the project repo link
 - come to your local computer and clone the github repo : `git clone https://github.com/mandeepmotan-ai/my-notes.git`
-- now change directory to the cloned repo on your local computer and run cmmnd : `git init`
 - now create any directory or file which you want to upload to your code repo
 - create a code file : `touch test.py`
 - now to ***add this file to staging area*** : `git add .`  dot (.) basically adds all the files and dir and for single file we can add name of dir or file: `git add filename`
