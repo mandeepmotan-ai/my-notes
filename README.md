@@ -41,8 +41,8 @@ These are my personal notes, but feel free to:
 ## 🔗 Connect with Me  
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/mandeepmotan-ai/)  
-- 📊 [Kaggle](https://www.kaggle.com/) *(profile link here)*  
-- 🐙 [GitHub](https://github.com/) *(main profile link here)*
+- 📊 [Kaggle](https://www.kaggle.com/mandeepmotan)   
+- 🐙 [GitHub](https://github.com/mandeepmotan-ai) 
 - 💬 [Telegram](https://t.me/theedevilhimself)  
 
 ---
