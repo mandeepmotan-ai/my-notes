@@ -1,6 +1,6 @@
 # 📖 My Notes  
 
-<a href="https://www.linkedin.com/in/mandeepmotan-ai" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=social" /></a>
+<a href="https://www.linkedin.com/in/mandeepmotan-ai" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=social" /></a><br>
 <a href="https://mandeepmotan-ai.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Built by Mandeep Motan-blue" /></a>
 <img src="https://img.shields.io/badge/PRs-Welcome-brightgreen" /><img src="https://img.shields.io/badge/Build-In Progress-yellow" />
 
