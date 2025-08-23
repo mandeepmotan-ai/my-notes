@@ -1,7 +1,7 @@
 # 🎨 CSS Practice Projects  
 
 This folder does **not** contain the actual project files.  
-Instead, it points to the ** [CSS Practice directory](https://github.com/mandeepmotan-ai/mandeepmotan-ai.github.io/tree/main/css-practice) ** in my portfolio repository ** [`mandeepmotan-ai.github.io`](https://github.com/mandeepmotan-ai/mandeepmotan-ai.github.io) **.  
+Instead, it points to the **[CSS Practice directory](https://github.com/mandeepmotan-ai/mandeepmotan-ai.github.io/tree/main/css-practice)** in my portfolio repository **[`mandeepmotan-ai.github.io`](https://github.com/mandeepmotan-ai/mandeepmotan-ai.github.io)**.  
 
 ---
 
