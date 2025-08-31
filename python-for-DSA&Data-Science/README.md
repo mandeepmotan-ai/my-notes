@@ -7,7 +7,6 @@ This dir does not contains any basic python concepts, rather it is focussed on i
 - **Intermediate Concepts**
   - List comprehensions
   - File handling
-  - Basic data structures (lists, dictionaries, sets)
 - **Advanced Topics**
   - Decorators
   - Generators
