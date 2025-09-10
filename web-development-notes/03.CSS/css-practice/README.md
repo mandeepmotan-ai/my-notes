@@ -21,8 +21,8 @@ From there, you’ll find individual project folders.
 Each folder also has a live preview hosted on **GitHub Pages**.  
 
 Example:  
-- [Project 01](https://mandeepmotan-ai.github.io/web-dev/css/01cards/card1)  
-- [Project 02](https://mandeepmotan-ai.github.io/web-dev/css/01cards/card2)  
+- [Project 01](https://mandeepmotan-ai.github.io/web-dev/css/01cards/card2)  
+- [Project 02](https://mandeepmotan-ai.github.io/web-dev/css/03study-sync)  
 
 ---
 
